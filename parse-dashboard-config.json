@@ -1,23 +1,34 @@
 {
   "apps": [
     {
+      "appName": "Relirk Portifoil",
       "serverURL": "https://relirk-parse.herokuapp.com/parse",
       "appId": "AppId123",
       "masterKey": "MasterKey123",
       "javascriptKey": "",
       "restKey": "",
-      "appName": "Relirk",
       "iconName": "",
       "primaryBackgroundColor": "",
       "secondaryBackgroundColor": "",
       "production": true
-
+    },
+    {
+      "appName": "Relirk Chat",
+      "serverURL": "",
+      "appId": "",
+      "masterKey": "",
+      "javascriptKey": "",
+      "restKey": "",
+      "iconName": "",
+      "primaryBackgroundColor": "",
+      "secondaryBackgroundColor": "",
+      "production": true
     }
   ],
   "users": [
     {
-      "user":"user1",
-      "pass":"pass"
+      "user": "francisco.olvera@relirk.com",
+      "pass": "-3m4}00u[^B58OY"
     }
   ]
 }
