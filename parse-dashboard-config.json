@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://relirk-parse.herokuapp.com/parse",
+      "serverURL": "https://relirk-parse.herokuapp.com/parse",
       "appId": "AppId123",
       "masterKey": "MasterKey123",
       "javascriptKey": "",
