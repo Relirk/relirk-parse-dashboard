@@ -14,9 +14,9 @@
     },
     {
       "appName": "Relirk Chat",
-      "serverURL": "",
-      "appId": "",
-      "masterKey": "",
+      "serverURL": "https://relirk-parse.herokuapp.com/parse",
+      "appId": "AppId123",
+      "masterKey": "MasterKey123",
       "javascriptKey": "",
       "restKey": "",
       "iconName": "",
