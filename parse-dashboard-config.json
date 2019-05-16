@@ -1,0 +1,23 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://relirk-parse.herokuapp.com/parse",
+      "appId": "AppId123",
+      "masterKey": "MasterKey123",
+      "javascriptKey": "",
+      "restKey": "",
+      "appName": "Relirk",
+      "iconName": "",
+      "primaryBackgroundColor": "",
+      "secondaryBackgroundColor": "",
+      "production": true
+
+    }
+  ],
+  "users": [
+    {
+      "user":"user1",
+      "pass":"pass"
+    }
+  ]
+}

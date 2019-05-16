@@ -1,0 +1,12 @@
+{
+  "name": "relirk-parse-dashboard",
+  "version": "1.0.0",
+  "description": "Relirk Parse Dashboard",
+  "main": "index.js",
+  "scripts": {},
+  "author": "francisco.olvera@relirk.com",
+  "license": "ISC",
+  "dependencies": {
+    "parse-dashboard": "^1.3.0"
+  }
+}
