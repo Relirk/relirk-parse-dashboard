@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Relirk Parse Dashboard",
   "main": "index.js",
-  "scripts": {},
   "author": "francisco.olvera@relirk.com",
   "license": "ISC",
   "dependencies": {
