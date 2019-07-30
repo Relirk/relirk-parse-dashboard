@@ -1,19 +1,7 @@
 {
   "apps": [
     {
-      "appName": "Relirk Portifoil",
-      "serverURL": "https://relirk-parse.herokuapp.com/parse",
-      "appId": "AppId123",
-      "masterKey": "MasterKey123",
-      "javascriptKey": "",
-      "restKey": "",
-      "iconName": "",
-      "primaryBackgroundColor": "",
-      "secondaryBackgroundColor": "",
-      "production": true
-    },
-    {
-      "appName": "Relirk Chat",
+      "appName": "Aplicativo de teste",
       "serverURL": "https://relirk-parse.herokuapp.com/parse",
       "appId": "AppId123",
       "masterKey": "MasterKey123",
